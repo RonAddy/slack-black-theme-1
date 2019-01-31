@@ -16,7 +16,7 @@ limitations under the License.
 
 :root {
    /* Modify these to change your theme colors: */
-   --primary: #CCC;
+    --primary: #CCC;
     --text: #999;
     --background: #222;
     --background-elevated: #444;
